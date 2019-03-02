@@ -27,3 +27,8 @@ public class Arrays {
 
 
 }
+
+/**
+ * - No main() method
+ * - No print method
+ */

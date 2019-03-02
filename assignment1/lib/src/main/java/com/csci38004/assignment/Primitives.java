@@ -62,3 +62,7 @@ public class Primitives {
         }
     }
 
+/**
+ * - No constructor with params
+ * - No main() method
+ */

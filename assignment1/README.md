@@ -79,3 +79,20 @@ public static void main(String[] args) {
 trying to extend an application, but also makes sure that you are able to only access methods on the interface's contract. Feel free
 to play around with different values to test your implementations, but when submitting your final assignment, make sure to leave this
 `main()` method as written here.
+
+# Final grade
+- Part 1: 2.5%
+    - Did not setup repo properly (extra folder and duplicate files?)
+- Part 2: 2.5%
+    - Did not setup repo properly (had issues importing to Android Studio)
+- Part 3: 5%
+    - No constructor with params
+    - No main() method
+- Part 4: 20%
+    - No main() method
+    - No print method
+- Part 5: 39%
+    - Params are hard coded
+    - Did not use Circle#area() to calculate volume()
+    - Rectangle length and width are hard coded
+- Total: 69%

@@ -32,3 +32,8 @@ public class Rectangle implements Shape {
 
     }
 }
+
+
+/**
+ * - length and width are hard coded
+ */
